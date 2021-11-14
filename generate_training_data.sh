@@ -1,6 +1,6 @@
 rm -rf train/*
 tesstrain.sh --fonts_dir fonts \
-	--fontlist 'AgencyFB Bold' \
+	--fontlist 'Aksaramatee_Bold' \
 	--lang eng \
 	--linedata_only \
 	--langdata_dir langdata_lstm \
